@@ -93,7 +93,7 @@ This project demonstrates end-to-end data analysis skills including data handlin
 
 ## 👤 Author
 
-**Srijani Sinha**
+**Purna Chandra**
 Aspiring Data Analyst | Python | SQL | Power BI
 
 ---
